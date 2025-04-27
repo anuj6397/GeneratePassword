@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.pass{
+
+    background-color:whitesmoke;
+    height: 450px;
+    width: 500px;
+    margin: auto;
+    margin-top: 8rem;
+   
+
+}
+
+.gen{
+    color: red;
+}
+
+/* weather.......... */
